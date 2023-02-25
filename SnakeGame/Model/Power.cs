@@ -1,4 +1,4 @@
-﻿// Author: Qiao Yi Cai and Yamin Zhuang, Nov 2022
+
 // Power class in the model of the Snake Game
 // This class is responsible for making Json object and property format
 // University of Utah
