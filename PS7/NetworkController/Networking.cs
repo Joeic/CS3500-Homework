@@ -6,7 +6,7 @@ using System.Text;
 namespace NetworkUtil;
 /*
  * Course: CS3500
- *Author: Qiaoyi Cai u1285695 & Yamin Zhuang u1396494
+ *Author: Qiaoyi Cai 
  *Date: 11/11/22
  *Project: ps7
  *
