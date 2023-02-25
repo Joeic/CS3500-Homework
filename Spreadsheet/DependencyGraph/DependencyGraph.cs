@@ -43,7 +43,6 @@ namespace SpreadsheetUtilities
     /// 
 
     ///
-    /// Author: Qiaoyi Cai
     /// Date:9/9/2022
     /// 
     ///
