@@ -15,7 +15,6 @@ using System.Threading.Tasks;
 
 /*
  * Course: CS3500 2022 fall
- * Author: Qiaoyi Cai
  * Date: 9/16/2022
  */
 namespace SpreadsheetUtilities
