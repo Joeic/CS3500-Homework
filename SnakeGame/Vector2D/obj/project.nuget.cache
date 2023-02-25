@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bn7S/tArkmynx4NqdV4fn6Pv4PZlVtCd05dU6Ta4K7yjPAqmSAOqwWWpNbdR4+f0aCaqZZoTpi+dTN+EfMkh6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cqy15\\Source\\Repos\\Homework\\SnakeGame\\Vector2D\\Vector2D.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cqy15\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

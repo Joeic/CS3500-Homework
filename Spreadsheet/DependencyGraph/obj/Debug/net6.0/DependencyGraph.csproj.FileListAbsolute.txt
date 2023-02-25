@@ -1,0 +1,12 @@
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\DependencyGraph\bin\Debug\net6.0\DependencyGraph.deps.json
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\DependencyGraph\bin\Debug\net6.0\DependencyGraph.dll
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\DependencyGraph\bin\Debug\net6.0\DependencyGraph.pdb
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\DependencyGraph\obj\Debug\net6.0\DependencyGraph.csproj.AssemblyReference.cache
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\DependencyGraph\obj\Debug\net6.0\DependencyGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\DependencyGraph\obj\Debug\net6.0\DependencyGraph.AssemblyInfoInputs.cache
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\DependencyGraph\obj\Debug\net6.0\DependencyGraph.AssemblyInfo.cs
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\DependencyGraph\obj\Debug\net6.0\DependencyGraph.csproj.CoreCompileInputs.cache
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\DependencyGraph\obj\Debug\net6.0\DependencyGraph.dll
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\DependencyGraph\obj\Debug\net6.0\refint\DependencyGraph.dll
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\DependencyGraph\obj\Debug\net6.0\DependencyGraph.pdb
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\DependencyGraph\obj\Debug\net6.0\ref\DependencyGraph.dll

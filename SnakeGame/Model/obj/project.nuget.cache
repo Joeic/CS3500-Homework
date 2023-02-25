@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YtAhuinzhMor4kuZRvXZAqw8f6rmxuxvhEQdL4lsYQA7LoPgVfVBESr/cSV/fGEBPuzY7dkNaAqFRF9qhrRVAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cqy15\\Source\\Repos\\Homework\\SnakeGame\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cqy15\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,1 @@
+{"cells":{"C1":{"stringForm":"17.5"}},"Version":"default"}

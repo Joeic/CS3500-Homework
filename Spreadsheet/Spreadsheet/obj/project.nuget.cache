@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y5hXrK80DLvPf/LkDq/dqKph/FtWkIdI1Z9LLL4O31+h3szFt63tYjMGk+Tlt2cP4dEMtpVlwrF1nm0zCyL6QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cqy15\\source\\repos\\spreadsheet-Joeic\\Spreadsheet\\Spreadsheet\\Spreadsheet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cqy15\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

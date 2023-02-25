@@ -1,0 +1,12 @@
+C:\Users\cqy15\Source\Repos\game-pandaeatwatermelon_game\SnakeGame\NetworkController\bin\Debug\net6.0\NetworkController.deps.json
+C:\Users\cqy15\Source\Repos\game-pandaeatwatermelon_game\SnakeGame\NetworkController\bin\Debug\net6.0\NetworkController.dll
+C:\Users\cqy15\Source\Repos\game-pandaeatwatermelon_game\SnakeGame\NetworkController\bin\Debug\net6.0\NetworkController.pdb
+C:\Users\cqy15\Source\Repos\game-pandaeatwatermelon_game\SnakeGame\NetworkController\obj\Debug\net6.0\NetworkController.csproj.AssemblyReference.cache
+C:\Users\cqy15\Source\Repos\game-pandaeatwatermelon_game\SnakeGame\NetworkController\obj\Debug\net6.0\NetworkController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cqy15\Source\Repos\game-pandaeatwatermelon_game\SnakeGame\NetworkController\obj\Debug\net6.0\NetworkController.AssemblyInfoInputs.cache
+C:\Users\cqy15\Source\Repos\game-pandaeatwatermelon_game\SnakeGame\NetworkController\obj\Debug\net6.0\NetworkController.AssemblyInfo.cs
+C:\Users\cqy15\Source\Repos\game-pandaeatwatermelon_game\SnakeGame\NetworkController\obj\Debug\net6.0\NetworkController.csproj.CoreCompileInputs.cache
+C:\Users\cqy15\Source\Repos\game-pandaeatwatermelon_game\SnakeGame\NetworkController\obj\Debug\net6.0\NetworkController.dll
+C:\Users\cqy15\Source\Repos\game-pandaeatwatermelon_game\SnakeGame\NetworkController\obj\Debug\net6.0\refint\NetworkController.dll
+C:\Users\cqy15\Source\Repos\game-pandaeatwatermelon_game\SnakeGame\NetworkController\obj\Debug\net6.0\NetworkController.pdb
+C:\Users\cqy15\Source\Repos\game-pandaeatwatermelon_game\SnakeGame\NetworkController\obj\Debug\net6.0\ref\NetworkController.dll

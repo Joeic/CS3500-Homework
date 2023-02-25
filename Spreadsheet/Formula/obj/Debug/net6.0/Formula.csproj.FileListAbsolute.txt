@@ -1,0 +1,12 @@
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\Formula\bin\Debug\net6.0\Formula.deps.json
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\Formula\bin\Debug\net6.0\Formula.dll
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\Formula\bin\Debug\net6.0\Formula.pdb
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\Formula\obj\Debug\net6.0\Formula.csproj.AssemblyReference.cache
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\Formula\obj\Debug\net6.0\Formula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\Formula\obj\Debug\net6.0\Formula.AssemblyInfoInputs.cache
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\Formula\obj\Debug\net6.0\Formula.AssemblyInfo.cs
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\Formula\obj\Debug\net6.0\Formula.csproj.CoreCompileInputs.cache
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\Formula\obj\Debug\net6.0\Formula.dll
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\Formula\obj\Debug\net6.0\refint\Formula.dll
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\Formula\obj\Debug\net6.0\Formula.pdb
+C:\Users\cqy15\source\repos\spreadsheet-Joeic\Spreadsheet\Formula\obj\Debug\net6.0\ref\Formula.dll

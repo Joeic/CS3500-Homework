@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LPPRqrQqtHVXGmfLqP16CsRwzRulqK0cg6NG/l0cs25umDUw4egXfNXG+Zf6G08HR5FWzM8uuXUBR8Bc6hmrTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cqy15\\source\\repos\\spreadsheet-Joeic\\Spreadsheet\\DependencyGraph\\DependencyGraph.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cqy15\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
