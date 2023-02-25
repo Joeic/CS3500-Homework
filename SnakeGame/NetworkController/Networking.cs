@@ -4,13 +4,7 @@ using System.Net.Sockets;
 using System.Text;
 
 namespace NetworkUtil;
-/*
- * Course: CS3500
- *Author: Qiaoyi Cai
- *Date: 11/11/22
- *Project: ps7
- *
- */
+
 public static class Networking
 {
     /////////////////////////////////////////////////////////////////////////////////////////
