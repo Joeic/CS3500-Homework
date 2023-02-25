@@ -1,4 +1,4 @@
-﻿// Author: Qiao Yi Cai and Yamin Zhuang, Nov 2022
+
 // World panel of the Snake Game
 // This class is responsible for drawing all objects in the world.
 // University of Utah
