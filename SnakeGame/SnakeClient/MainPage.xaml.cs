@@ -1,4 +1,4 @@
-﻿// Author: Qiao Yi Cai and Yamin Zhuang, Nov 2022
+
 // View of the Snake Game
 // This class will create the player's view like GUI for the gameand the players' names and scores
 // Also it will draw the GUI controls, such as text boxes and buttons; Also register basic
