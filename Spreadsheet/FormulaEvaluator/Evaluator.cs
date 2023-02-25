@@ -5,7 +5,6 @@ using System.Text.RegularExpressions;
 namespace FormulaEvaluator
 {
     /// <summary>
-    /// author:Qiaoyi Cai
     /// date:9/5/2022
     /// The class Evaluator creates the method Evalate to calculate the 
     /// input math expression
