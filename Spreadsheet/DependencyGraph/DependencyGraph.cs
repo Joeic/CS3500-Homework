@@ -44,7 +44,6 @@ namespace SpreadsheetUtilities
 
     ///
     /// Author: Qiaoyi Cai
-    /// UID:1285695
     /// Date:9/9/2022
     /// 
     ///
