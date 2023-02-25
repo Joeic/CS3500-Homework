@@ -1,4 +1,4 @@
-﻿// Author: Qiao Yi Cai and Yamin Zhuang, Nov 2022
+
 // Game controller of the Snake Game
 // This class is responsible for pasring information received from the NetworkController, and update the model.
 // After updating the model, it should inform the View that the world has changed, so that it can redraw.
