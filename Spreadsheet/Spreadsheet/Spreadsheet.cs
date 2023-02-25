@@ -12,7 +12,6 @@ using SS;
 using static System.Net.Mime.MediaTypeNames;
 /*
  * Course: CS3500 2022 fall
- * Author: Qiaoyi Cai
  * Date: 9/30/2022
  */
 namespace SS
